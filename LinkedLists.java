@@ -8,3 +8,6 @@
 
 
 //this is a check to see if adding node works
+
+//this adds nodes in alphabetical order
+
