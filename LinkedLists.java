@@ -7,3 +7,4 @@
 //This is adding the method to add another node to the list
 
 
+//this is a check to see if adding node works
