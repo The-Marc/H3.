@@ -12,3 +12,8 @@
 //this adds nodes in alphabetical order
 
 //this is a check after to make sure alphabetical adding works
+
+
+//this is a check after 
+
+//this is adding a method to delete a node
