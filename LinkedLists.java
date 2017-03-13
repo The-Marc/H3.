@@ -11,3 +11,4 @@
 
 //this adds nodes in alphabetical order
 
+//this is a check after to make sure alphabetical adding works
